@@ -53,7 +53,7 @@
 - [Buzzfeed Series A pitch deck](https://www.slideshare.net/TechInAsiaID/buzzfeed-pitch-deck) (2008, USA)
 - [YouTube Series A pitch deck](https://www.slideshare.net/AlexanderJarvis/youtube-pitch-deck) (2005, USA)
 
-## 📈[Series B pitch decks](https://peatch.co/tags/series-b/)
+## 📈 [Series B pitch decks](https://peatch.co/tags/series-b/)
 
 - [Front Series B pitch deck](https://peatch.co/2018/03/18/front_seriesb_2018.html) (2018, USA)
 - [Contently Series B pitch deck](https://peatch.co/decks/contently_seriesb_2014/) (2014, USA)
@@ -63,13 +63,13 @@
 - [LinkedIn Series B pitch deck](https://peatch.co/decks/linkedin_seriesb_2004/) (2004, USA)
 - [MySQL Series B pitch deck](https://peatch.co/decks/mysql_seriesb_2003/) (2003, USA)
 
-## 👨🏻‍💼[Series C pitch decks](https://peatch.co/tags/series-c/)
+## 👨🏻‍ 💼[Series C pitch decks](https://peatch.co/tags/series-c/)
 
 - [Front Series C pitch deck](https://peatch.co/2020/02/04/front_seriesc_2020.html) (2020, USA)
 - [Dwolla Series C pitch deck](https://peatch.co/decks/dwolla_seriesc_2013/) (2013, USA)
 - [Square Series C pitch deck](https://peatch.co/decks/square_seriesc_2011/) (2011, USA)
 
-## 🏦[Series D pitch decks](https://peatch.co/tags/series-d/)
+## 🏦 [Series D pitch decks](https://peatch.co/tags/series-d/)
 
 - [GoCanvas Series D pitch deck](https://www.slideshare.net/GoCanvas/the-10-most-interesting-slides-that-helped-our-saas-company-raise-9-million-42566344) (2014, USA)
 - [Nutanix Series D pitch deck](https://peatch.co/decks/nutanix_seriesd_2014/) (2014, USA)
