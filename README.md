@@ -63,7 +63,7 @@
 - [LinkedIn Series B pitch deck](https://peatch.co/decks/linkedin_seriesb_2004/) (2004, USA)
 - [MySQL Series B pitch deck](https://peatch.co/decks/mysql_seriesb_2003/) (2003, USA)
 
-## 👨🏻‍ 💼[Series C pitch decks](https://peatch.co/tags/series-c/)
+## 👨🏻‍ [Series C pitch decks](https://peatch.co/tags/series-c/)
 
 - [Front Series C pitch deck](https://peatch.co/2020/02/04/front_seriesc_2020.html) (2020, USA)
 - [Dwolla Series C pitch deck](https://peatch.co/decks/dwolla_seriesc_2013/) (2013, USA)
