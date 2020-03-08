@@ -24,7 +24,6 @@
 - [Ad PushUp Seed pitch deck](https://peatch.co/decks/adpushup_seed_2014/) (2014, India)
 - [Crew Seed pitch deck](https://fr.slideshare.net/TechInAsiaID/ooomf-crew-pitch-deck) (2014, Canada)
 - [Wealthsimple Seed pitch deck](https://peatch.co/decks/wealthsimple_seed_2014/) (2014, Canada)
-- [Fittr Seed pitch deck](https://www.alexanderjarvis.com/fittr-seed-stage-startup-pitch-deck/) (2013, India)
 - [Properati Seed pitch deck](https://peatch.co/decks/properati_seed_2013/) (2013, Argentina)
 - [Swipes Seed pitch deck](https://peatch.co/decks/swipes_seed_2013/) (2013, USA)
 - [Coinbase Seed pitch deck](https://peatch.co/decks/coinbase_seed_2012/) (2012, USA)
@@ -57,7 +56,6 @@
 ## 📈[Series B pitch decks](https://peatch.co/tags/series-b/)
 
 - [Front Series B pitch deck](https://peatch.co/2018/03/18/front_seriesb_2018.html) (2018, USA)
-- [Pendo Series B pitch deck](https://pitchdeckexamples.com/startups/pendo-pitch-deck) (2016, USA)
 - [Contently Series B pitch deck](https://peatch.co/decks/contently_seriesb_2014/) (2014, USA)
 - [Mixpanel Series B pitch deck](https://peatch.co/decks/mixpanel_seriesb_2014/) (2014, USA)
 - [Tinder Series B pitch deck](https://peatch.co/decks/tinder_seriesb_2014/) (2014, USA)
@@ -71,7 +69,7 @@
 - [Dwolla Series C pitch deck](https://peatch.co/decks/dwolla_seriesc_2013/) (2013, USA)
 - [Square Series C pitch deck](https://peatch.co/decks/square_seriesc_2011/) (2011, USA)
 
-## 🏦[Series D pitch decks](https://peatch.co/tags/seed/)
+## 🏦[Series D pitch decks](https://peatch.co/tags/series-d/)
 
 - [GoCanvas Series D pitch deck](https://www.slideshare.net/GoCanvas/the-10-most-interesting-slides-that-helped-our-saas-company-raise-9-million-42566344) (2014, USA)
 - [Nutanix Series D pitch deck](https://peatch.co/decks/nutanix_seriesd_2014/) (2014, USA)
